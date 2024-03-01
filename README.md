@@ -12,17 +12,20 @@
   <code><a href="https://stackoverflow.com/users/23505993/luis-felipe" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 
-<!--
-**luisfsosa/luisfsosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Hi, I'm Luis Felipe Sosa, Systems Engineer with experience as an Architect and Technical Lead for the last 15 years.
+  I specialize in cloud architecture and full stack for web development. I was lucky to work with companies with a good design development process and that gave me the experience and solid knowledge of how to work with clients and how to lead people. 
+  <br>
+  <br>
+  🔬 I'm currently studying for my Java 21 Certification
+  <br>
+  🎓 I graduated from EAFIT University, Department of Computer Engineering (Master)
+  <br>
+  🎓 I graduated from Quindio University, Department of Computer Engineering (Undergraduate)
+  <br>
+  💻 I love leading projects, writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to Real State Machine Learning Plaftform with Amazon SageMaker with Django
+  <br>
+  📫 How to reach me: <a href="mailto: luisfsosa@gmail.com">luisfsosa@gmail.com</a>
+</p>
